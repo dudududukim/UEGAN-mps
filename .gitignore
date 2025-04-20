@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch 관련 캐시 파일 및 데이터
+*.pt
+*.pth
+*.ckpt
+runs/
+logs/
+wandb/
+
+# Dataset & Generated Data
+data/*
+!data/own_version
+datasets/
+*.zip
+*.tar
+*.tar.gz
+*.h5
+*.npy
+*.npz
+*.csv
+
+# Debugging & Logs
+*.log
+debug/
+profile/
+
+# VSCode / PyCharm / JetBrains 관련 파일
+.vscode/
+.idea/
+*.iml
+
+# 기타 OS / 시스템 파일
+.DS_Store
+Thumbs.db
+
+# results
+results/
+solutions/
+tutorial/*
+
+._*
+*.ipynb
