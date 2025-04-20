@@ -13,6 +13,8 @@ This implementation is based on:
 - **Code**: [eezkni/UEGAN](https://github.com/eezkni/UEGAN)  
 We acknowledge the original authors for their foundational work.
 
+> Major changes for MPS support are clearly indicated with `# duhyeon kim` comments in the code. Please check these comments to understand all MPS-specific modifications.
+
 ## 🚀 Key Features
 - **MPS Support**: Automatic device detection (MPS/CUDA/CPU) for seamless execution on Apple Silicon.  
 - **Optimized Perceptual Loss**: VGG19-based loss adapted for MPS with dynamic `InstanceNorm2d` and no `AveragePool2d`.  
