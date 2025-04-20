@@ -23,29 +23,14 @@ We acknowledge the original authors for their foundational work.
 
 *All modifications are marked with `# duhyeon kim` comments in the code.*
 
-## 📋 Requirements
-- Python 3.8+
-- PyTorch 2.0+ (with MPS support)
-- torchvision
-- numpy
-- tqdm
-- Pillow
-
-Install dependencies:
-```bash
-pip install -r requirements.txt
-```
 
 ## 🛠️ Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/UEGAN-MPS.git
-   cd UEGAN-MPS
+   git clone https://github.com/dudududukim/UEGAN-mps.git
+   cd UEGAN-mps
    ```
 2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 3. Prepare your dataset (e.g., low-quality and high-quality image pairs).
 4. Update dataset paths in the configuration file or script.
 
@@ -70,7 +55,7 @@ The original UEGAN codebase by [eezkni](https://github.com/eezkni/UEGAN) is subj
 - **Contributor**: *duhyeon kim* for MPS support, optimizations, and code enhancements.
 
 ## 📬 Contact
-For questions or suggestions, feel free to open an issue or contact <your-email-or-github-handle>.
+For questions or suggestions, feel free to open an issue or contact <kdhluck@naver.com>.
 
 ---
 
