@@ -13,7 +13,9 @@ This implementation is based on:
 - **Code**: [eezkni/UEGAN](https://github.com/eezkni/UEGAN)  
 We acknowledge the original authors for their foundational work.
 
-> Major changes for MPS support are clearly indicated with `# duhyeon kim` comments in the code. Please check these comments to understand all MPS-specific modifications.
+
+## **For MPS-specific changes, please refer to the `# duhyeon kim` comments in the code!**
+
 
 ## 🚀 Key Features
 - **MPS Support**: Automatic device detection (MPS/CUDA/CPU) for seamless execution on Apple Silicon.  
