@@ -27,6 +27,7 @@ We acknowledge the original authors for their foundational work.
 
 *All modifications are marked with `# duhyeon kim` comments in the code.*
 
+### For brief explanation, visite [UEGAN Codebase Modifications for Apple MPS Support](https://dudududukim.github.io/projects/uegan_mps/)
 
 ## 🛠️ Installation
 1. Clone this repository:
